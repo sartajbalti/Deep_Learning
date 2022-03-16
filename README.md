@@ -1,4 +1,4 @@
-# ***Deep_Learning***
+# ***Deep_Learning Form Scratch***
 Deep Learning Practice Session from Zero to Gans.
 
 This repository is Created to provide a brief introduction to Deep learning with handon practice materials. 
